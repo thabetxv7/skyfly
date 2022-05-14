@@ -1,0 +1,80 @@
+[
+  {
+    "company": "Cham Wing",
+    "price": "210",
+    "currency": "$",
+    "location": {
+      "from": "Damascus",
+      "to": "Philippine"
+    },
+    "duration": {
+      "from": "2022-05-20T12:38:10.295Z",
+      "to": "2022-05-20T14:38:10.295Z"
+    }
+  },
+  {
+    "company": "Cham Wing",
+    "price": "230",
+    "currency": "$",
+    "location": {
+      "from": "Damascus",
+      "to": "Philippine"
+    },
+    "duration": {
+      "from": "2022-05-20T13:38:10.295Z",
+      "to": "2022-05-20T14:38:10.295Z"
+    }
+  },
+  {
+    "company": "Cham Wing",
+    "price": "210",
+    "currency": "$",
+    "location": {
+      "from": "Damascus",
+      "to": "Paris"
+    },
+    "duration": {
+      "from": "2022-05-21T12:38:10.295Z",
+      "to": "2022-05-21T14:38:10.295Z"
+    }
+  },
+  {
+    "company": "Cham Wing",
+    "price": "270",
+    "currency": "$",
+    "location": {
+      "from": "Damascus",
+      "to": "Egypt"
+    },
+    "duration": {
+      "from": "2022-05-21T12:38:10.295Z",
+      "to": "2022-05-21T14:38:10.295Z"
+    }
+  },
+  {
+    "company": "Egypt Wing",
+    "price": "250",
+    "currency": "$",
+    "location": {
+      "from": "Egypt",
+      "to": "Paris"
+    },
+    "duration": {
+      "from": "2022-05-21T12:38:10.295Z",
+      "to": "2022-05-21T14:38:10.295Z"
+    }
+  },
+  {
+    "company": "Paris Wing",
+    "price": "300",
+    "currency": "$",
+    "location": {
+      "from": "Paris",
+      "to": "Damascus"
+    },
+    "duration": {
+      "from": "2022-05-21T10:38:10.295Z",
+      "to": "2022-05-22T10:38:10.295Z"
+    }
+  }
+]
